@@ -1,0 +1,61 @@
+{
+    // Always runs the currently open Java file
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "POLYY.main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "OOPS_REVISE.Static.Main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "basics",
+            "request": "launch",
+            "mainClass": "OOPS_REVISE.basics",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "polymorphism.overriding.main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "polymorphism.main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "main",
+            "request": "launch",
+            "mainClass": "Inheritance.main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Interface.Main",
+            "projectName": "JAVA_OOPS_284807c4"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
